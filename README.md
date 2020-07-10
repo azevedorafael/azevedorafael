@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xonOzxf2M8hNu/source.gif)
 
 
 <!--
